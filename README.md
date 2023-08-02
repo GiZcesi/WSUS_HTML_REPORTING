@@ -1,6 +1,6 @@
 # WSUS_HTML_REPORTING
 
-WSUS Reporting Tool
+# WSUS Reporting Tool
 The WSUS Reporting Tool is a PowerShell script that automates the generation of a WSUS report in HTML format. The tool will gather essential information, such as the FQDN, WSUS port, and SSL configuration, to create a comprehensive report. Additionally, it includes scheduled task functionality and email sending to streamline the reporting process.
 
 Features

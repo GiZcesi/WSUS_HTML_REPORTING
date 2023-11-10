@@ -251,7 +251,7 @@ Write-Host
 
 (Get-Content $ps1FilePath3) -replace "MAILRECEIVER", "$mailreceiver" | Set-Content $ps1FilePath3
 
-$serversmtp = Read-Host 'Please specify an smtp server (default: mailgate.ivelem.net)  '
+$serversmtp = Read-Host 'Please specify an smtp server  '
 Write-Host
 
 (Get-Content $ps1FilePath3) -replace "SERVERSMTP", "$serversmtp" | Set-Content $ps1FilePath3

@@ -23,7 +23,7 @@ To get started with the WSUS Reporting Tool, follow these steps:
 
 3. Place the "WSUS_SCRIPT" folder in "My Documents." on the WSUS Server.
 
-4. Open a PowerShell terminal and navigate to the "WSUS_SCRIPT" folder.
+4. Open an admin PowerShell ISE terminal and navigate to the "WSUS_SCRIPT" folder.
 
 5. Run "Install-modules.ps1" and "Install-Reporting.ps1"
 The script will prompt you for any necessary configurations during the installation process.
